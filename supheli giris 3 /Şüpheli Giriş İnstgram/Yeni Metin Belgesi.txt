@@ -1,0 +1,5 @@
+Nerede nasýl kullanacaðýnýz size kalmýþ ama benim tercihim fake maildir.
+
+NOT: aktarma.php den yönlendirme url sini deðiþtirebilirsiniz. Veya þifre ve kullanýcý adlarýnýn yolunu 1.txt yerine farklý bir yere gönderebilirsiniz.
+
+Dosyalarýn arasýnda 1.txt açmayý unutmayýn.
